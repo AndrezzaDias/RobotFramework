@@ -16,7 +16,7 @@ Quando digita o nome da música
 E clico no botão buscar
     Click Element   ${Button_Pesquisa}
 
-E clico na peimeia opção da lista
+E clico na primeira opção da lista
     Wait Until Element Is Visible       ${Primeiro}         20
     Click Element   ${Primeiro}  
 
