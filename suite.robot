@@ -10,7 +10,7 @@ Cenário 1: Acesso o site do youtube
 Cenário 2: Executar vídeo no site do youTube
     Quando digita o nome da música
     E clico no botão buscar
-    E clico na peimeia opção da lista
+    E clico na primeira opção da lista
     Então o video é executado
 
 
